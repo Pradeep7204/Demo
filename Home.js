@@ -73,6 +73,7 @@ function errorNotFound() {
  */
 function mobileSite() {
     session.custom.device = 'mobile';
+    var cabxjhasbc=12;
     app.getView().render('components/changelayout');
 }
 
