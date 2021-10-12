@@ -7,6 +7,7 @@
  * @module controllers/Cart
  */
 //cghcghj
+//khbkjnkjnjk
 
 /* API Includes */
 var ArrayList = require('dw/util/ArrayList');
@@ -15,6 +16,7 @@ var Resource = require('dw/web/Resource');
 var Transaction = require('dw/system/Transaction');
 var URLUtils = require('dw/web/URLUtils');
 var Pipeline = require('dw/system/Pipeline');
+var hi=12;
 
 /* Script Modules */
 var app = require('~/cartridge/scripts/app');
